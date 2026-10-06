@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "node --test src/lib/*.test.ts",
+    "todos": "grep -n TODO src/content/facts.ts",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "next": "16.3.8",
