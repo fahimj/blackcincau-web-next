@@ -24,13 +24,14 @@ export const company = {
   mapEmbedUrl:
     "https://maps.google.com/maps?q=57M3%2BW2%20Kenteng%2C%20Wonogiri%20Regency%2C%20Central%20Java&t=m&z=15&output=embed&iwloc=near",
   botanicalName: "Platostoma palustre",
-  botanicalSynonym: "Mesona chinensis",
+  botanicalSynonym: "Mesona chinensis, Mesona palustris",
 } as const;
 
-// Countries the product has actually been shipped to, directly or through
-// other exporters. Do not add a country here unless that is true.
+// Countries the product has actually been shipped to, as confirmed by the
+// exporter. Shipments to China went through other exporters, not directly.
+// Do not add a country here unless that is true.
 export const exportDestinations: Record<Locale, string[]> = {
-  en: ["China"],
-  ms: ["China"],
-  ar: ["الصين"],
+  en: ["China", "Malaysia", "Thailand"],
+  ms: ["China", "Malaysia", "Thailand"],
+  ar: ["الصين", "ماليزيا", "تايلاند"],
 };

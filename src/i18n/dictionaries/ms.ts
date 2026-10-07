@@ -101,9 +101,9 @@ const ms: Dictionary = {
     ],
     destinationsTitle: "Destinasi eksport",
     destinationsNote:
-      "Produk kami telah dihantar ke destinasi berikut, secara langsung dan melalui pengeksport lain.",
+      "Produk kami telah dihantar ke destinasi berikut. Penghantaran ke China dibuat melalui pengeksport lain.",
     destinationsInvite:
-      "Kami juga menyediakan sebut harga untuk pembeli di Singapura, Malaysia dan negara lain.",
+      "Kami juga menyediakan sebut harga untuk pembeli di Singapura dan negara lain.",
     ctaTitle: "Mencari pembekal cincau hitam (grass jelly)?",
     ctaBody:
       "Beritahu kami produk, kuantiti dan pelabuhan destinasi. Kami akan membalas dengan sebut harga.",
@@ -231,7 +231,7 @@ const ms: Dictionary = {
       {
         q: "Apakah itu cincau hitam?",
         a: () =>
-          "Cincau hitam ialah nama Indonesia bagi black grass jelly, yang dibuat daripada tumbuhan Platostoma palustre (juga dipanggil Mesona chinensis). Di pasaran Cina ia dikenali sebagai xiancao (仙草) atau liangfencao (凉粉草), di Singapura dan Malaysia sebagai chin chow atau cincau, dan dalam bahasa Jawa sebagai janggelan. Tumbuhan kering ini direbus dan diproses untuk menghasilkan cincau.",
+          "Cincau hitam ialah nama Indonesia bagi black grass jelly, yang dibuat daripada tumbuhan Platostoma palustre (juga dipanggil Mesona chinensis atau Mesona palustris). Di pasaran Cina ia dikenali sebagai xiancao (仙草) atau liangfencao (凉粉草), di Singapura dan Malaysia sebagai chin chow atau cincau, dan dalam bahasa Jawa sebagai janggelan. Tumbuhan kering ini direbus dan diproses untuk menghasilkan cincau.",
       },
       {
         q: "Adakah anda menjual cincau siap?",
@@ -254,7 +254,7 @@ const ms: Dictionary = {
       {
         q: "Bolehkah saya mendapatkan sampel sebelum memesan?",
         a: (f) =>
-          `Boleh. ${f.samplePolicy}. Gunakan butang "Minta Sampel" untuk memberitahu kami produk yang anda perlukan.`,
+          `Boleh. Kami menghantar ${f.samplePolicy}. Gunakan butang "Minta Sampel" untuk memberitahu kami produk yang anda perlukan.`,
       },
       {
         q: "Apakah terma penghantaran dan pelabuhan yang digunakan?",
@@ -264,11 +264,11 @@ const ms: Dictionary = {
       {
         q: "Adakah anda menghantar ke negara selain China?",
         a: () =>
-          "Ya. Kami telah mengeksport ke China sejak 2012, dan kami menyediakan sebut harga untuk destinasi lain, termasuk Singapura dan Malaysia. Beritahu kami negara dan pelabuhan destinasi anda, dan kami akan mengesahkan terma penghantaran serta dokumen yang boleh kami sediakan.",
+          "Ya. Produk kami telah dieksport ke China sejak 2012, dan juga pernah dihantar ke Malaysia dan Thailand. Kami turut menyediakan sebut harga untuk destinasi lain, termasuk Singapura. Beritahu kami negara dan pelabuhan destinasi anda, dan kami akan mengesahkan terma penghantaran serta dokumen yang boleh kami sediakan.",
       },
       {
         q: "Apakah terma pembayaran anda?",
-        a: (f) => `${f.payment}.`,
+        a: (f) => `Terma pembayaran kami ialah ${f.payment}.`,
       },
       {
         q: "Berapa lamakah sesuatu pesanan disiapkan?",

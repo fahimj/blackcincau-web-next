@@ -110,9 +110,9 @@ const en = {
     ],
     destinationsTitle: "Export destinations",
     destinationsNote:
-      "Our products have been shipped to the following destinations, directly and through other exporters.",
+      "Our products have been shipped to the following destinations. Shipments to China have been made through other exporters.",
     destinationsInvite:
-      "We also quote for buyers in Singapore, Malaysia and other countries.",
+      "We also quote for buyers in Singapore and other countries.",
     ctaTitle: "Looking for a black cincau (grass jelly) supplier?",
     ctaBody:
       "Tell us the product, quantity and destination port. We reply with a quotation.",
@@ -240,7 +240,7 @@ const en = {
       {
         q: "What is black cincau?",
         a: () =>
-          "Black cincau is the Indonesian name for black grass jelly, made from the plant Platostoma palustre (also called Mesona chinensis). In Chinese markets it is known as xiancao (仙草) or liangfencao (凉粉草), in Singapore and Malaysia as chin chow or cincau, and in Javanese as janggelan. The dried plant is boiled and processed to make grass jelly.",
+          "Black cincau is the Indonesian name for black grass jelly, made from the plant Platostoma palustre (also called Mesona chinensis or Mesona palustris). In Chinese markets it is known as xiancao (仙草) or liangfencao (凉粉草), in Singapore and Malaysia as chin chow or cincau, and in Javanese as janggelan. The dried plant is boiled and processed to make grass jelly.",
       },
       {
         q: "Do you sell finished grass jelly?",
@@ -263,7 +263,7 @@ const en = {
       {
         q: "Can I get a sample before ordering?",
         a: (f: Facts) =>
-          `Yes. ${f.samplePolicy}. Use the "Request a Sample" button to tell us which product you need.`,
+          `Yes. We send ${f.samplePolicy}. Use the "Request a Sample" button to tell us which product you need.`,
       },
       {
         q: "Which shipping terms and port do you use?",
@@ -273,11 +273,11 @@ const en = {
       {
         q: "Do you ship to countries other than China?",
         a: () =>
-          "Yes. We have exported to China since 2012, and we quote for other destinations, including Singapore and Malaysia. Tell us your destination country and port, and we will confirm the shipping terms and the documents we can provide.",
+          "Yes. Our products have been exported to China since 2012, and have also been shipped to Malaysia and Thailand. We quote for other destinations too, including Singapore. Tell us your destination country and port, and we will confirm the shipping terms and the documents we can provide.",
       },
       {
         q: "What are your payment terms?",
-        a: (f: Facts) => `${f.payment}.`,
+        a: (f: Facts) => `Our payment terms are ${f.payment}.`,
       },
       {
         q: "How long does an order take?",

@@ -9,19 +9,19 @@ npm run dev        local preview at http://localhost:3000
 npm run build      production build (all pages are static)
 npm run test       tests for the inquiry message builder
 npm run lint       ESLint
-npm run todos      list the placeholder commercial facts still to replace
+npm run todos      list the commercial facts still waiting for the exporter
 ```
 
-## Before this goes in front of buyers
+## Commercial terms
 
-`src/content/facts.ts` holds the commercial terms (MOQ, packaging, container loading, capacity, lead time, Incoterms, port, payment, HS code, shelf life, samples). **Every value there is an invented placeholder.** Replace each line marked `TODO` with the real value in all three languages. The same values feed the commercial terms tables and the FAQ answers, so nothing else needs editing.
+`src/content/facts.ts` holds the commercial terms (MOQ, packaging, container loading, capacity, lead time, Incoterms, ports, payment, HS code, shelf life, samples). They were confirmed by the exporter on 6 October 2026; the filled-in sheet is `../verifikasi-eksportir.md`. The same values feed the commercial terms tables and the FAQ answers, so that file is the only place to edit. One point is still open: whether samples are free or charged.
 
 ## Where things are
 
 ```
 src/content/company.ts     confirmed company and contact details, export destinations
 src/content/products.ts    the three products and their published specs
-src/content/facts.ts       commercial terms (placeholders, see above)
+src/content/facts.ts       commercial terms confirmed by the exporter
 src/i18n/config.ts         languages, and which of them are switched on
 src/i18n/dictionaries/     all page text: en.ts, ms.ts (draft), ar.ts (draft)
 src/app/[lang]/            pages: home, products/[slug], about, faq, contact
