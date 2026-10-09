@@ -104,7 +104,6 @@ const en = {
     proofTitle: "Documents and export record",
     documentsTitle: "Documents available on request",
     documents: [
-      "Business licence (NIB) of CV Ambar Sari",
       "Phytosanitary certificate, issued for each shipment",
       "Laboratory test results",
     ],
@@ -287,7 +286,7 @@ const en = {
       {
         q: "Which documents can you provide?",
         a: () =>
-          "On request we provide the business licence (NIB) of CV Ambar Sari, a phytosanitary certificate for each shipment, and laboratory test results.",
+          "On request we provide a phytosanitary certificate for each shipment, and laboratory test results.",
       },
       {
         q: "Do you have a halal certificate?",

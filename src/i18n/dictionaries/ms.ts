@@ -95,7 +95,6 @@ const ms: Dictionary = {
     proofTitle: "Dokumen dan rekod eksport",
     documentsTitle: "Dokumen tersedia atas permintaan",
     documents: [
-      "Lesen perniagaan (NIB) CV Ambar Sari",
       "Sijil fitosanitari, dikeluarkan bagi setiap penghantaran",
       "Keputusan ujian makmal",
     ],
@@ -278,7 +277,7 @@ const ms: Dictionary = {
       {
         q: "Dokumen apakah yang boleh anda sediakan?",
         a: () =>
-          "Atas permintaan, kami menyediakan lesen perniagaan (NIB) CV Ambar Sari, sijil fitosanitari bagi setiap penghantaran, dan keputusan ujian makmal.",
+          "Atas permintaan, kami menyediakan sijil fitosanitari bagi setiap penghantaran, dan keputusan ujian makmal.",
       },
       {
         q: "Adakah anda mempunyai sijil halal?",
