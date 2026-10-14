@@ -20,7 +20,7 @@ export const company = {
   whatsappNumber: "6281325485979",
   whatsappLink: "https://wa.link/5063ef",
   whatsappGreeting: "Hi *Black Cincau*! I need more info about Black Cincau",
-  email: "blackcincau49@gmail.com",
+  email: "sales@blackcincau.com",
   mapEmbedUrl:
     "https://maps.google.com/maps?q=57M3%2BW2%20Kenteng%2C%20Wonogiri%20Regency%2C%20Central%20Java&t=m&z=15&output=embed&iwloc=near",
   botanicalName: "Platostoma palustre",
