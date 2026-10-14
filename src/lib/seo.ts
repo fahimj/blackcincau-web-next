@@ -3,7 +3,7 @@ import { company } from "@/content/company";
 import { defaultLocale, enabledLocales, type Locale } from "@/i18n/config";
 
 export const siteUrl = (
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://blackcincau.my.id"
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://blackcincau.com"
 ).replace(/\/$/, "");
 
 export const localePath = (lang: Locale, path = "") => `/${lang}${path}`;

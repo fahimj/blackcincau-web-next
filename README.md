@@ -37,7 +37,7 @@ Pages live under a language prefix (`/en/...`); `/` redirects to `/en`. Malay an
 
 ## Environment variables (both optional)
 
-- `NEXT_PUBLIC_SITE_URL` — the public address, used for canonical links and the sitemap. Defaults to `https://blackcincau.my.id`.
+- `NEXT_PUBLIC_SITE_URL` — the public address, used for canonical links and the sitemap. Defaults to `https://blackcincau.com`.
 - `NEXT_PUBLIC_GSC_VERIFICATION` — the Google Search Console verification code.
 
 ## Deploying
