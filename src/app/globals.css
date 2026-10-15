@@ -8,7 +8,7 @@
   --text: #4d5443;
   --muted: #6b7260;
   --line: #dfe5d0;
-  --font-ui: var(--font-roboto), -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  --font-ui: var(--font-roboto), -apple-system, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
   --font-display: var(--font-poppins), var(--font-ui);
 }
 

@@ -34,4 +34,5 @@ export const exportDestinations: Record<Locale, string[]> = {
   en: ["China", "Malaysia", "Taiwan", "Thailand"],
   ms: ["China", "Malaysia", "Taiwan", "Thailand"],
   ar: ["الصين", "ماليزيا", "تايوان", "تايلاند"],
+  zh: ["中国大陆", "马来西亚", "台湾", "泰国"],
 };

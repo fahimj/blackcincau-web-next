@@ -23,7 +23,7 @@ src/content/company.ts     confirmed company and contact details, export destina
 src/content/products.ts    the three products and their published specs
 src/content/facts.ts       commercial terms confirmed by the exporter
 src/i18n/config.ts         languages, and which of them are switched on
-src/i18n/dictionaries/     all page text: en.ts, ms.ts (draft), ar.ts (draft)
+src/i18n/dictionaries/     all page text: en.ts, ms.ts (draft), ar.ts (draft), zh.ts (draft)
 src/app/[lang]/            pages: home, products/[slug], about, faq, contact
 src/app/sitemap.ts         sitemap.xml          src/app/robots.ts   robots.txt
 src/lib/seo.ts             page metadata and structured data helpers
@@ -33,7 +33,7 @@ src/assets/img/            the 12 images from the old site
 
 ## Languages
 
-Pages live under a language prefix (`/en/...`); `/` redirects to `/en`. Malay and Arabic are fully drafted but switched off. To publish one after a native speaker has reviewed its dictionary and its values in `facts.ts`, add it to `enabledLocales` in `src/i18n/config.ts`. The language switcher, hreflang tags and sitemap pick it up automatically, and Arabic renders right-to-left.
+Pages live under a language prefix (`/en/...`); `/` redirects to `/en`. Arabic and Simplified Chinese (`zh`) are switched on; Malay is fully drafted but switched off. To publish it after a native speaker has reviewed its dictionary and its values in `facts.ts`, add `ms` to `enabledLocales` in `src/i18n/config.ts`. The language switcher, hreflang tags and sitemap pick it up automatically, and Arabic renders right-to-left.
 
 ## Environment variables (both optional)
 
