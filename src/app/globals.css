@@ -29,6 +29,9 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* Chinese has no spaces between words, so keep-all would stop it wrapping. */
+body:lang(zh) { word-break: normal; line-break: strict; }
+
 h1, h2, h3 { margin: 0; line-height: 1.2; color: var(--ink); text-wrap: balance; }
 p { margin: 0 0 1rem; }
 figure { margin: 0; }
