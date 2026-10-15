@@ -31,7 +31,7 @@ export const company = {
 // exporter. Shipments to China went through other exporters, not directly.
 // Do not add a country here unless that is true.
 export const exportDestinations: Record<Locale, string[]> = {
-  en: ["China", "Malaysia", "Thailand"],
-  ms: ["China", "Malaysia", "Thailand"],
-  ar: ["الصين", "ماليزيا", "تايلاند"],
+  en: ["China", "Malaysia", "Taiwan", "Thailand"],
+  ms: ["China", "Malaysia", "Taiwan", "Thailand"],
+  ar: ["الصين", "ماليزيا", "تايوان", "تايلاند"],
 };

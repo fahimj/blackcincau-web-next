@@ -272,7 +272,7 @@ const en = {
       {
         q: "Do you ship to countries other than China?",
         a: () =>
-          "Yes. Our products have been exported to China since 2012, and have also been shipped to Malaysia and Thailand. We quote for other destinations too, including Singapore. Tell us your destination country and port, and we will confirm the shipping terms and the documents we can provide.",
+          "Yes. Our products have been exported to China since 2012, and have also been shipped to Malaysia, Taiwan and Thailand. We quote for other destinations too, including Singapore. Tell us your destination country and port, and we will confirm the shipping terms and the documents we can provide.",
       },
       {
         q: "What are your payment terms?",

@@ -263,7 +263,7 @@ const ms: Dictionary = {
       {
         q: "Adakah anda menghantar ke negara selain China?",
         a: () =>
-          "Ya. Produk kami telah dieksport ke China sejak 2012, dan juga pernah dihantar ke Malaysia dan Thailand. Kami turut menyediakan sebut harga untuk destinasi lain, termasuk Singapura. Beritahu kami negara dan pelabuhan destinasi anda, dan kami akan mengesahkan terma penghantaran serta dokumen yang boleh kami sediakan.",
+          "Ya. Produk kami telah dieksport ke China sejak 2012, dan juga pernah dihantar ke Malaysia, Taiwan dan Thailand. Kami turut menyediakan sebut harga untuk destinasi lain, termasuk Singapura. Beritahu kami negara dan pelabuhan destinasi anda, dan kami akan mengesahkan terma penghantaran serta dokumen yang boleh kami sediakan.",
       },
       {
         q: "Apakah terma pembayaran anda?",
