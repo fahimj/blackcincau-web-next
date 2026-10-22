@@ -31,7 +31,7 @@ const zh: Dictionary = {
   home: {
     metaTitle: "印尼仙草（Black Cincau）原料出口商 — 仙草干叶、仙草干茎",
     metaDescription:
-      "CV Ambar Sari 在印尼中爪哇生产并出口仙草干（black cincau、grass jelly、凉粉草、Mesona chinensis）：干叶、碎叶和干茎，水分低于 10%。",
+      "Black Cincau 在印尼中爪哇生产并出口仙草干（black cincau、grass jelly、凉粉草、Mesona chinensis）：干叶、碎叶和干茎，水分低于 10%。",
     heroTitle: "仙草（Black Cincau）原料",
     heroSubtitle:
       "Platostoma palustre（Mesona chinensis，仙草）的干叶和干茎，产自印尼中爪哇，自 2012 年起从印尼出口。",
@@ -44,7 +44,7 @@ const zh: Dictionary = {
     aboutEyebrow: "关于我们",
     aboutTitle: "自 2012 年起生产仙草原料",
     aboutBody: [
-      "CV Ambar Sari 以 Black Cincau 品牌生产和销售仙草（black cincau）干原料。自 2012 年以来，我们一直是印尼仙草原料行业的先行者之一，为国内外买家供货。",
+      "Black Cincau 生产和销售仙草（black cincau）干原料。自 2012 年以来，我们一直是印尼仙草原料行业的先行者之一，为国内外买家供货。",
       "我们直接与中爪哇沃诺吉利（Wonogiri）经验丰富的仙草种植户合作。我们的干叶、碎叶和干茎供食品、饮料和加工食品生产商使用，经熬煮加工后制成仙草冻。",
     ],
     productsTitle: "产品",
@@ -132,7 +132,7 @@ const zh: Dictionary = {
         summary: "水分含量低于 10%，成分为 95% 干叶和 5% 干茎。",
         metaTitle: "仙草干叶（Black Cincau）— 95% 叶",
         metaDescription:
-          "印尼仙草（black cincau、grass jelly、凉粉草）干叶：95% 叶、5% 茎，水分低于 10%。由 CV Ambar Sari 大批量供应。欢迎询价。",
+          "印尼仙草（black cincau、grass jelly、凉粉草）干叶：95% 叶、5% 茎，水分低于 10%。由 Black Cincau 大批量供应。欢迎询价。",
         intro:
           "干叶是仙草（black cincau）原料中含叶量最高的等级，含 95% 干叶和 5% 干茎，水分含量低于 10%。",
         selection: "如果您的工艺或配方需要最高的叶片比例，请选择此等级。",
@@ -143,7 +143,7 @@ const zh: Dictionary = {
         summary: "水分含量低于 10%，成分为 50% 干叶和 50% 干茎。",
         metaTitle: "仙草碎叶（Black Cincau）— 叶茎各半",
         metaDescription:
-          "印尼仙草（black cincau、grass jelly、凉粉草）碎叶：50% 叶、50% 茎，水分低于 10%。由 CV Ambar Sari 大批量供应。欢迎询价。",
+          "印尼仙草（black cincau、grass jelly、凉粉草）碎叶：50% 叶、50% 茎，水分低于 10%。由 Black Cincau 大批量供应。欢迎询价。",
         intro:
           "碎叶是仙草（black cincau）叶和茎的均匀混合料，经切碎以便处理，含 50% 干叶和 50% 干茎，水分含量低于 10%。",
         selection: "如果您需要叶茎均衡的单一产品，请选择此等级。",
@@ -154,7 +154,7 @@ const zh: Dictionary = {
         summary: "水分含量低于 10%，成分为 5% 干叶和 95% 干茎。",
         metaTitle: "仙草干茎（Black Cincau）— 95% 茎",
         metaDescription:
-          "印尼仙草（black cincau、grass jelly、凉粉草）干茎：95% 茎、5% 叶，水分低于 10%。由 CV Ambar Sari 大批量供应。欢迎询价。",
+          "印尼仙草（black cincau、grass jelly、凉粉草）干茎：95% 茎、5% 叶，水分低于 10%。由 Black Cincau 大批量供应。欢迎询价。",
         intro:
           "干茎是仙草（black cincau）原料中含茎量最高的等级，含 95% 干茎和 5% 干叶，水分含量低于 10%。",
         selection: "如果您的工艺或配方以茎为主要原料，请选择此等级。",
@@ -178,11 +178,11 @@ const zh: Dictionary = {
     price: "价格",
   },
   about: {
-    metaTitle: "关于 CV Ambar Sari — 自 2012 年起的仙草原料生产商",
+    metaTitle: "关于 Black Cincau — 自 2012 年起的仙草原料生产商",
     metaDescription:
-      "CV Ambar Sari（品牌 Black Cincau）自 2012 年起在印尼中爪哇沃诺吉利生产仙草（black cincau、grass jelly）干原料，并直接与当地种植户合作。",
-    title: "关于 CV Ambar Sari",
-    lead: "CV Ambar Sari 是一家印度尼西亚仙草（black cincau）原料生产商和出口商，Black Cincau 是我们的出口品牌。",
+      "Black Cincau 自 2012 年起在印尼中爪哇沃诺吉利生产仙草（black cincau、grass jelly）干原料，并直接与当地种植户合作。",
+    title: "关于 Black Cincau",
+    lead: "Black Cincau 是一家印度尼西亚仙草（black cincau）原料生产商和出口商。",
     storyTitle: "我们的故事",
     story: [
       "自 2012 年成立以来，我们一直是印尼仙草原料行业的先行者之一，致力于以品质有保障的产品满足国内外需求。",
@@ -200,7 +200,6 @@ const zh: Dictionary = {
     ],
     detailsTitle: "公司信息",
     details: {
-      legalName: "法人实体",
       brand: "品牌",
       founded: "成立时间",
       business: "业务",
@@ -284,7 +283,7 @@ const zh: Dictionary = {
   contact: {
     metaTitle: "索取报价或样品 — Black Cincau",
     metaDescription:
-      "向印尼 CV Ambar Sari 索取仙草（black cincau、grass jelly）干原料的报价或样品。可通过 WhatsApp 或电子邮件联系我们。",
+      "向印尼 Black Cincau 索取仙草（black cincau、grass jelly）干原料的报价或样品。可通过 WhatsApp 或电子邮件联系我们。",
     title: "索取报价或样品",
     lead: "填写表格后通过 WhatsApp 或电子邮件发送。您也可以直接联系我们。",
     directTitle: "联系方式",

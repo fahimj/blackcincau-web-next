@@ -50,7 +50,7 @@ export function Footer({ lang, dict }: { lang: Locale; dict: Dictionary }) {
       </div>
       <div className="container footer-bottom">
         <p>
-          © {new Date().getFullYear()} {company.legalName} · {company.brand}.{" "}
+          © {new Date().getFullYear()} {company.brand}.{" "}
           {dict.footer.rights}
         </p>
       </div>

@@ -30,7 +30,7 @@ const ms: Dictionary = {
   home: {
     metaTitle: "Pengeksport Bahan Mentah Cincau Hitam (Grass Jelly) dari Indonesia",
     metaDescription:
-      "CV Ambar Sari mengeluarkan dan mengeksport daun kering, daun cincang dan batang kering cincau hitam (grass jelly, chin chow, xiancao 仙草, Mesona chinensis) dari Jawa Tengah, Indonesia. Kelembapan di bawah 10%.",
+      "Black Cincau mengeluarkan dan mengeksport daun kering, daun cincang dan batang kering cincau hitam (grass jelly, chin chow, xiancao 仙草, Mesona chinensis) dari Jawa Tengah, Indonesia. Kelembapan di bawah 10%.",
     heroTitle: "Bahan Mentah Cincau Hitam (Grass Jelly)",
     heroSubtitle:
       "Daun dan batang kering Platostoma palustre (Mesona chinensis, xiancao 仙草), dihasilkan di Jawa Tengah dan dieksport dari Indonesia sejak 2012.",
@@ -43,7 +43,7 @@ const ms: Dictionary = {
     aboutEyebrow: "Tentang kami",
     aboutTitle: "Pengeluar bahan mentah cincau hitam sejak 2012",
     aboutBody: [
-      "CV Ambar Sari mengeluarkan dan mengedarkan bahan mentah cincau hitam (grass jelly) kering di bawah jenama Black Cincau. Sejak 2012 kami merupakan antara perintis industri bahan mentah cincau hitam di Indonesia, membekalkan pembeli dalam negara dan antarabangsa.",
+      "Black Cincau mengeluarkan dan mengedarkan bahan mentah cincau hitam (grass jelly) kering. Sejak 2012 kami merupakan antara perintis industri bahan mentah cincau hitam di Indonesia, membekalkan pembeli dalam negara dan antarabangsa.",
       "Kami bekerjasama secara langsung dengan petani cincau yang berpengalaman di Wonogiri, Jawa Tengah. Daun kering, daun cincang dan batang kering kami digunakan oleh pengilang makanan, minuman dan barangan proses yang merebus serta memprosesnya menjadi cincau.",
     ],
     productsTitle: "Produk",
@@ -137,7 +137,7 @@ const ms: Dictionary = {
           "Kandungan lembapan di bawah 10%, dengan komposisi 95% daun kering dan 5% batang kering.",
         metaTitle: "Daun Cincau Hitam (Grass Jelly) Kering — 95% Daun",
         metaDescription:
-          "Daun cincau hitam (grass jelly, xiancao 仙草) kering dari Indonesia: 95% daun, 5% batang, kelembapan di bawah 10%. Dibekalkan secara pukal oleh CV Ambar Sari.",
+          "Daun cincau hitam (grass jelly, xiancao 仙草) kering dari Indonesia: 95% daun, 5% batang, kelembapan di bawah 10%. Dibekalkan secara pukal oleh Black Cincau.",
         intro:
           "Gred daun kering kami ialah gred bahan mentah cincau hitam (grass jelly) yang kaya dengan daun. Ia mengandungi 95% daun kering dan 5% batang kering, dengan kandungan lembapan di bawah 10%.",
         selection:
@@ -150,7 +150,7 @@ const ms: Dictionary = {
           "Kandungan lembapan di bawah 10%, dengan komposisi 50% daun kering dan 50% batang kering.",
         metaTitle: "Daun Cincau Hitam (Grass Jelly) Cincang — Campuran 50/50",
         metaDescription:
-          "Cincau hitam (grass jelly, xiancao 仙草) cincang dari Indonesia: 50% daun, 50% batang, kelembapan di bawah 10%. Dibekalkan secara pukal oleh CV Ambar Sari.",
+          "Cincau hitam (grass jelly, xiancao 仙草) cincang dari Indonesia: 50% daun, 50% batang, kelembapan di bawah 10%. Dibekalkan secara pukal oleh Black Cincau.",
         intro:
           "Gred daun cincang kami ialah campuran seimbang daun dan batang cincau hitam (grass jelly), dicincang untuk memudahkan pengendalian. Ia mengandungi 50% daun kering dan 50% batang kering, dengan kandungan lembapan di bawah 10%.",
         selection:
@@ -163,7 +163,7 @@ const ms: Dictionary = {
           "Kandungan lembapan di bawah 10%, dengan komposisi 5% daun kering dan 95% batang kering.",
         metaTitle: "Batang Cincau Hitam (Grass Jelly) Kering — 95% Batang",
         metaDescription:
-          "Batang cincau hitam (grass jelly, xiancao 仙草) kering dari Indonesia: 95% batang, 5% daun, kelembapan di bawah 10%. Dibekalkan secara pukal oleh CV Ambar Sari.",
+          "Batang cincau hitam (grass jelly, xiancao 仙草) kering dari Indonesia: 95% batang, 5% daun, kelembapan di bawah 10%. Dibekalkan secara pukal oleh Black Cincau.",
         intro:
           "Gred batang kering kami ialah gred bahan mentah cincau hitam (grass jelly) yang kaya dengan batang. Ia mengandungi 95% batang kering dan 5% daun kering, dengan kandungan lembapan di bawah 10%.",
         selection:
@@ -188,11 +188,11 @@ const ms: Dictionary = {
     price: "Harga",
   },
   about: {
-    metaTitle: "Tentang CV Ambar Sari — Pengeluar Cincau Hitam Sejak 2012",
+    metaTitle: "Tentang Black Cincau — Pengeluar Bahan Mentah Cincau Hitam Sejak 2012",
     metaDescription:
-      "CV Ambar Sari, berniaga sebagai Black Cincau, mengeluarkan bahan mentah cincau hitam (grass jelly) kering di Wonogiri, Jawa Tengah, Indonesia sejak 2012, dengan bekerjasama terus dengan petani tempatan.",
-    title: "Tentang CV Ambar Sari",
-    lead: "CV Ambar Sari ialah pengeluar dan pengeksport bahan mentah cincau hitam (grass jelly) dari Indonesia. Black Cincau ialah jenama eksport kami.",
+      "Black Cincau mengeluarkan bahan mentah cincau hitam (grass jelly) kering di Wonogiri, Jawa Tengah, Indonesia sejak 2012, dengan bekerjasama terus dengan petani tempatan.",
+    title: "Tentang Black Cincau",
+    lead: "Black Cincau ialah pengeluar dan pengeksport bahan mentah cincau hitam (grass jelly) dari Indonesia.",
     storyTitle: "Kisah kami",
     story: [
       "Sejak ditubuhkan pada 2012, kami merupakan antara perintis industri bahan mentah cincau hitam di Indonesia, dengan komitmen memenuhi permintaan dalam negara dan antarabangsa melalui produk yang terjamin kualitinya.",
@@ -210,7 +210,6 @@ const ms: Dictionary = {
     ],
     detailsTitle: "Butiran syarikat",
     details: {
-      legalName: "Entiti sah",
       brand: "Jenama",
       founded: "Ditubuhkan",
       business: "Perniagaan",
@@ -298,7 +297,7 @@ const ms: Dictionary = {
   contact: {
     metaTitle: "Minta Sebut Harga atau Sampel — Black Cincau",
     metaDescription:
-      "Minta sebut harga atau sampel bahan mentah cincau hitam (grass jelly) kering daripada CV Ambar Sari, Indonesia. Hubungi kami melalui WhatsApp atau e-mel.",
+      "Minta sebut harga atau sampel bahan mentah cincau hitam (grass jelly) kering daripada Black Cincau, Indonesia. Hubungi kami melalui WhatsApp atau e-mel.",
     title: "Minta sebut harga atau sampel",
     lead: "Isi borang dan hantar melalui WhatsApp atau e-mel. Anda juga boleh menghubungi kami secara langsung.",
     directTitle: "Maklumat perhubungan",

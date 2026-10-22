@@ -3,7 +3,6 @@ import type { Locale } from "@/i18n/config";
 // Confirmed company details. Change them here and they update everywhere.
 export const company = {
   brand: "Black Cincau",
-  legalName: "CV Ambar Sari",
   founded: 2012,
   address: {
     street: "Dusun II, Kenteng, Purwantoro",

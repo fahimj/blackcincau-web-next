@@ -52,7 +52,6 @@ export const organizationJsonLd = {
   "@type": "Organization",
   "@id": `${siteUrl}/#organization`,
   name: company.brand,
-  legalName: company.legalName,
   url: siteUrl,
   logo: absoluteUrl("/logo.png"),
   foundingDate: String(company.founded),

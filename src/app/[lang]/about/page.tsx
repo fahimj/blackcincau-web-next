@@ -80,10 +80,6 @@ export default async function AboutPage({ params }: PageProps<"/[lang]/about">) 
             <table className="data-table">
               <tbody>
                 <tr>
-                  <th scope="row">{about.details.legalName}</th>
-                  <td>{company.legalName}</td>
-                </tr>
-                <tr>
                   <th scope="row">{about.details.brand}</th>
                   <td>{company.brand}</td>
                 </tr>

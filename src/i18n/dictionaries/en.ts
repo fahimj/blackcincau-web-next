@@ -39,7 +39,7 @@ const en = {
   home: {
     metaTitle: "Black Cincau (Grass Jelly) Raw Material Exporter in Indonesia",
     metaDescription:
-      "CV Ambar Sari produces and exports dried black cincau (grass jelly, chin chow, xiancao 仙草, Mesona chinensis) leaves, chopped leaves and stems from Central Java, Indonesia. Moisture below 10%.",
+      "Black Cincau produces and exports dried black cincau (grass jelly, chin chow, xiancao 仙草, Mesona chinensis) leaves, chopped leaves and stems from Central Java, Indonesia. Moisture below 10%.",
     heroTitle: "Black Cincau (Grass Jelly) Raw Materials",
     heroSubtitle:
       "Dried leaves and stems of Platostoma palustre (Mesona chinensis, xiancao 仙草), produced in Central Java and exported from Indonesia since 2012.",
@@ -52,7 +52,7 @@ const en = {
     aboutEyebrow: "About us",
     aboutTitle: "A producer of black cincau raw materials since 2012",
     aboutBody: [
-      "CV Ambar Sari produces and distributes dried black cincau (grass jelly) raw materials under the Black Cincau brand. Since 2012 we have been one of the pioneers of Indonesia's black cincau raw material industry, supplying both domestic and international buyers.",
+      "Black Cincau produces and distributes dried black cincau (grass jelly) raw materials. Since 2012 we have been one of the pioneers of Indonesia's black cincau raw material industry, supplying both domestic and international buyers.",
       "We work directly with experienced cincau farmers in Wonogiri, Central Java. Our dried leaves, chopped leaves and dried stems are used by food, beverage and processed-goods manufacturers who boil and process them into grass jelly.",
     ],
     productsTitle: "Products",
@@ -146,7 +146,7 @@ const en = {
           "Moisture content below 10%, with a composition of 95% dried leaves and 5% dried stems.",
         metaTitle: "Dried Black Cincau (Grass Jelly) Leaves — 95% Leaf",
         metaDescription:
-          "Dried black cincau (grass jelly, xiancao 仙草) leaves from Indonesia: 95% leaves, 5% stems, moisture below 10%. Supplied in bulk by CV Ambar Sari. Request a quote.",
+          "Dried black cincau (grass jelly, xiancao 仙草) leaves from Indonesia: 95% leaves, 5% stems, moisture below 10%. Supplied in bulk by Black Cincau. Request a quote.",
         intro:
           "Our dried leaves grade is the leaf-rich grade of black cincau (grass jelly) raw material. It contains 95% dried leaves and 5% dried stems, with a moisture content below 10%.",
         selection:
@@ -159,7 +159,7 @@ const en = {
           "Moisture content below 10%, with a composition of 50% dried leaves and 50% dried stems.",
         metaTitle: "Chopped Black Cincau (Grass Jelly) Leaves — 50/50 Mix",
         metaDescription:
-          "Chopped black cincau (grass jelly, xiancao 仙草) from Indonesia: 50% leaves, 50% stems, moisture below 10%. Supplied in bulk by CV Ambar Sari. Request a quote.",
+          "Chopped black cincau (grass jelly, xiancao 仙草) from Indonesia: 50% leaves, 50% stems, moisture below 10%. Supplied in bulk by Black Cincau. Request a quote.",
         intro:
           "Our chopped leaves grade is an even mix of black cincau (grass jelly) leaves and stems, chopped for easier handling. It contains 50% dried leaves and 50% dried stems, with a moisture content below 10%.",
         selection:
@@ -172,7 +172,7 @@ const en = {
           "Moisture content below 10%, with a composition of 5% dried leaves and 95% dried stems.",
         metaTitle: "Dried Black Cincau (Grass Jelly) Stems — 95% Stem",
         metaDescription:
-          "Dried black cincau (grass jelly, xiancao 仙草) stems from Indonesia: 95% stems, 5% leaves, moisture below 10%. Supplied in bulk by CV Ambar Sari. Request a quote.",
+          "Dried black cincau (grass jelly, xiancao 仙草) stems from Indonesia: 95% stems, 5% leaves, moisture below 10%. Supplied in bulk by Black Cincau. Request a quote.",
         intro:
           "Our dried stems grade is the stem-rich grade of black cincau (grass jelly) raw material. It contains 95% dried stems and 5% dried leaves, with a moisture content below 10%.",
         selection:
@@ -197,11 +197,11 @@ const en = {
     price: "Price",
   },
   about: {
-    metaTitle: "About CV Ambar Sari — Black Cincau Producer Since 2012",
+    metaTitle: "About Black Cincau — Grass Jelly Raw Material Producer Since 2012",
     metaDescription:
-      "CV Ambar Sari, trading as Black Cincau, has produced dried black cincau (grass jelly) raw materials in Wonogiri, Central Java, Indonesia since 2012, working directly with local farmers.",
-    title: "About CV Ambar Sari",
-    lead: "CV Ambar Sari is an Indonesian producer and exporter of black cincau (grass jelly) raw materials. Black Cincau is our export brand.",
+      "Black Cincau has produced dried black cincau (grass jelly) raw materials in Wonogiri, Central Java, Indonesia since 2012, working directly with local farmers.",
+    title: "About Black Cincau",
+    lead: "Black Cincau is an Indonesian producer and exporter of black cincau (grass jelly) raw materials.",
     storyTitle: "Our story",
     story: [
       "Since our establishment in 2012, we have been one of the pioneers in Indonesia's black cincau raw material industry, committed to meeting both domestic and international demand with quality-assured products.",
@@ -219,7 +219,6 @@ const en = {
     ],
     detailsTitle: "Company details",
     details: {
-      legalName: "Legal entity",
       brand: "Brand",
       founded: "Established",
       business: "Business",
@@ -307,7 +306,7 @@ const en = {
   contact: {
     metaTitle: "Request a Quote or Sample — Black Cincau",
     metaDescription:
-      "Request a quotation or a sample of dried black cincau (grass jelly) raw material from CV Ambar Sari, Indonesia. Contact us by WhatsApp or email.",
+      "Request a quotation or a sample of dried black cincau (grass jelly) raw material from Black Cincau, Indonesia. Contact us by WhatsApp or email.",
     title: "Request a quote or a sample",
     lead: "Fill in the form and send it by WhatsApp or email. You can also contact us directly.",
     directTitle: "Contact details",
